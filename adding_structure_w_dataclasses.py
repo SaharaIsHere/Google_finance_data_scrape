@@ -1,1 +1,2 @@
 #pyhton code
+import random
